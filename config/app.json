@@ -1,0 +1,9 @@
+{
+    "DEV": {
+        "server": "localhost",
+        "user": "root",
+        "password": "melfindos009",
+        "DB":"store",
+        "port":"3306"
+    }
+} 
